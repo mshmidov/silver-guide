@@ -75,19 +75,25 @@
 
 With time and materials you can prepare traps to be used later; spend 1 hold of Gear&Ammo.
 Only when a trap is triggered, roll +Brains and mark xp.
+
 On a 10+ pick two, on a 7-9 pick one. Pick 1 more if Tainted. On a hit take +1 Spirit.
+
 * Create a good, safe opening for yourself or one of your allies, to attempt a valid attack without rolling Face Death.
 * Take +1 to the AD or give it to an ally.
 * Inflict 2 harm ap.
 * Stay unnoticed.
+
 On a 6- GM makes his move.
 
 ## Unnatural Tracking
 
 When touching a trail of a creature you can have unnatural insight about it. Take -1 Spirit, roll +Edge and mark xp.
+
 On a 10+ pick two, on a 7-9 pick one.
+
 * Know what your quarry wants, fears and plans to do.
 * See, hear, smell, feel as your quarry for a moment.
 * Keep your quarry unaware of your attention.
 On a 6- GM makes his move. 
+
 If Tainted, you are able to do the same with human trail.
