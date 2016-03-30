@@ -94,6 +94,7 @@ On a 10+ pick two, on a 7-9 pick one.
 * Know what your quarry wants, fears and plans to do.
 * See, hear, smell, feel as your quarry for a moment.
 * Keep your quarry unaware of your attention.
+
 On a 6- GM makes his move. 
 
 If Tainted, you are able to do the same with human trail.
