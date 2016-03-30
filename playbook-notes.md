@@ -13,6 +13,14 @@
 ## The Horseman
 Из него надо делать фронтирного персонажа, уменьшить акцент на лошадь, добавить социально-лидерских и стрелковых или toughness ходов.
 
+### Ходы
+
+* Best On The Saddle (default, из плейбука, но без +1 к Armor)
+* Battle Winds (из плейбука)
+* Untouchable (xp, из плейбука)
+* My Word Is The Law
+* Frontier Blood
+
 ## The Hunter
 В CoJ конфликт Охотника происходит между звериной и человеческой сутью, как в Assassin's Apprentice. У нас это скорее азарт охоты, ведущий к жестокости и
 потере человечности.
@@ -98,3 +106,26 @@ On a 10+ pick two, on a 7-9 pick one.
 On a 6- GM makes his move. 
 
 If Tainted, you are able to do the same with human trail.
+
+## My Word Is The Law
+
+When you speak to someone or a crowd from the frontier culture, roll+Charm. On a 10+ hold two, on a 7-9 hold one. If you’re Tainted, hold one more. Spend holds to:
+
+* Obtain immunity for you and your companions
+* Obtain immunity or forgiveness for someone else
+* Trigger the expression of a strong emotion from
+them: rage, fear, repentance, rebellion, peace, etc.
+* They side with you as the voice of the frontier Law, so their
+leaders or nobles must pay attention to you
+* Have them fight in your protection, or against who
+you say (but lose all remaining holds)
+
+## Frontier Blood
+
+When you interact with frontiermen in the appropriate context, you can roll+Charm and take holds like for Uncover Their Secret (see the Scout move).
+
+On a 10+ or 7-9, take also +1 Spirit.
+
+If you’re Tainted, you can also roll +Charm instead of Shadows, for Lie And Deceive against them.
+
+
