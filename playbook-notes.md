@@ -136,4 +136,4 @@ If you’re Tainted, you can also roll +Steel instead of Edge to threaten them.
 
 ## Handloader
 
-You have a habit of collecting and reloading your used brass. For you, firearms ammo cost one hold instead of two
+You have a habit of collecting and reloading your used brass. For you, firearms ammo cost one Gead&ammo hold instead of two
