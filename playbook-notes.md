@@ -19,15 +19,15 @@
 
 ### Ходы
 
-* The Tracker (default, xp, из плейбука)
+* The Tracker (default, xp, из плейбука) - Brains roll
 * Master Of Hounds (из плейбука)
 * Animal Reflexes (xp, из плейбука)
-* Invisible (из плейбука)
+* Invisible (из плейбука) - Edge roll
 * Always Prepared (из плейбука)
-* Master Of Traps
+* Master Of Traps - Brains roll
 * ? (tainted)
 * ? (tainted)
-* Unnatural Tracking (special, xp)
+* Unnatural Tracking (special, xp) - Edge roll
 
 
 ## The Priest
@@ -68,11 +68,11 @@
 ### Ходы
 
 * Best On The Saddle (default, из плейбука, но без +1 к Armor)
-* [Point Blank](#point-blank) 
+* [Point Blank](#point-blank) - Steel roll
 * [Handloader](#handloader)
-* Charge (xp, из плейбука)
-* [In the name of the Law](#in-the-name-of-the-law)(xp)
-* [Eye for the Truth](#eye-for-the-truth)(xp)
+* Charge (xp, из плейбука) - Steel roll
+* [In the name of the Law](#in-the-name-of-the-law)(xp) - Charm roll
+* [Eye for the Truth](#eye-for-the-truth)(xp) - Edge/Steel(t) roll
 * Untouchable (xp, из плейбука, tainted)
 * ? (tainted)
 * ? (special)
