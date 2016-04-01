@@ -58,15 +58,22 @@
 ## The Lawman
 Сделан из The Horseman
 
+### Статы
+
+* Edge +1; Steel +2; Charm -1; Shadow +1; Brains 0
+* Edge 0; Steel +2; Charm +1; Shadow -1; Brains +1
+* Edge +2; Steel +1; Charm +1; Shadow -1; Brains 0
+* Edge +2; Steel 0; Charm +1; Shadow 0; Brains +1
+
 ### Ходы
 
 * Best On The Saddle (default, из плейбука, но без +1 к Armor)
-* Battle Winds (из плейбука)
-* Untouchable (xp, из плейбука)
+* [Point Blank](#point-blank) 
+* [Handloader](#handloader)
 * Charge (xp, из плейбука)
-* [In the name of the Law](#in-the-name-of-the-law)
+* [In the name of the Law](#in-the-name-of-the-law)(xp)
 * [Eye for the Truth](#eye-for-the-truth)(xp)
-* ? (tainted)
+* Untouchable (xp, из плейбука, tainted)
 * ? (tainted)
 * ? (special)
 
@@ -113,6 +120,14 @@ On a 10+ pick two, on a 7-9 pick one.
 On a 6- GM makes his move. 
 
 If Tainted, you are able to do the same with human trail.
+
+## Point Blank
+
+When you fight with firearms in close quarters, you can Engage In Battle and roll +Steel instead of Edge.
+
+## Handloader
+
+You have a habit of collecting and reloading your used brass. For you, firearms ammo cost one Gead&ammo hold instead of two
 
 ## In the name of the Law
 
