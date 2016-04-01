@@ -54,7 +54,7 @@
 * Threatening (из плейбука) - Steel roll
 * Last Stand (xp, из плейбука) - Steel roll
 * Lucky in Battle (из плейбука)
-* [Field Dressing](#field-dressing) - Edge roll
+* [Field Dressing](#field-dressing) (xp) - Edge roll
 * The Toughest (xp, tainted, из плейбука)
 * ? (tainted)
 * A Long Way Home (special) - Spirit roll
