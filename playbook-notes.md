@@ -68,8 +68,8 @@
 ### Ходы
 
 * Best On The Saddle (default, из плейбука, но без +1 к Armor)
-* [Point Blank](#point-blank)  
-* [Reloader](#reloader)
+* [Point Blank](#point-blank) 
+* [Handloader](#handloader)
 * Charge (xp, из плейбука)
 * [In the name of the Law](#in-the-name-of-the-law)(xp)
 * [Eye for the Truth](#eye-for-the-truth)(xp)
@@ -125,9 +125,9 @@ If Tainted, you are able to do the same with human trail.
 
 When you fight with firearms in close quarters, you can Engage In Battle and roll +Steel instead of Edge.
 
-## Reloader
+## Handloader
 
-??? receive additional holds for ammo or make ammo cost 1 hold???
+You have a habit of collecting and reloading your used brass. For you, firearms ammo cost one Gead&ammo hold instead of two
 
 ## In the name of the Law
 
