@@ -11,7 +11,7 @@
 ?
 
 ## The Horseman
-Переделан в [The Lawman](#the-lawman)
+Переделан в [The Lawman](playbooks/lawman.md)
 
 ## The Hunter
 В CoJ конфликт Охотника происходит между звериной и человеческой сутью, как в Assassin's Apprentice. У нас это скорее азарт охоты, ведущий к жестокости и
@@ -54,28 +54,6 @@
 Не подходит.
 
 # Новые архетипы
-
-## The Lawman
-Сделан из The Horseman
-
-### Статы
-
-* Edge +1; Steel +2; Charm -1; Shadow +1; Brains 0
-* Edge 0; Steel +2; Charm +1; Shadow -1; Brains +1
-* Edge +2; Steel +1; Charm +1; Shadow -1; Brains 0
-* Edge +2; Steel 0; Charm +1; Shadow 0; Brains +1
-
-### Ходы
-
-* Best On The Saddle (default, из плейбука, но без +1 к Armor)
-* [Point Blank](#point-blank) 
-* [Handloader](#handloader)
-* Charge (xp, из плейбука)
-* [In the name of the Law](#in-the-name-of-the-law)(xp)
-* [Eye for the Truth](#eye-for-the-truth)(xp)
-* Untouchable (xp, из плейбука, tainted)
-* ? (tainted)
-* ? (special)
 
 ## Чужак
 Путешественник из совсем далёких мест. Социальщик-трикстер, jack-of-all-trades
@@ -120,32 +98,3 @@ On a 10+ pick two, on a 7-9 pick one.
 On a 6- GM makes his move. 
 
 If Tainted, you are able to do the same with human trail.
-
-## Point Blank
-
-When you fight with firearms in close quarters, you can Engage In Battle and roll +Steel instead of Edge.
-
-## Handloader
-
-You have a habit of collecting and reloading your used brass. For you, firearms ammo cost one Gead&ammo hold instead of two
-
-## In the name of the Law
-
-When you speak to someone or a crowd in the name of the frontier Law in appropriate context, roll +Charm. On a 10+ hold two, on a 7-9 hold one. 
-If you’re Tainted, hold one more. Spend holds to:
-
-* Obtain immunity for you and your companions
-* Obtain immunity or forgiveness for someone else 
-* Declare someone guilty
-* Trigger the expression of a strong emotion from them: rage, fear, repentance, rebellion, peace, etc.
-* They side with you as the voice of the frontier Law, so their leaders must pay attention to you
-* Have them fight in your protection, or against who you say (but lose all remaining holds)
-
-## Eye for the Truth
-
-When you interact with people who accept your authority, you can roll +Edge and take holds like for Uncover Their Secret (see the Scout move).
-
-On a 10+ or 7-9, take also +1 Spirit.
-
-If you’re Tainted, you can also roll +Steel instead of Edge to threaten them.
-
