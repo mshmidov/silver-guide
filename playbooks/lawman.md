@@ -8,7 +8,10 @@ Edge +1; Steel +1; Charm 0; Shadow -1; Brains 0
 Добавить два +1 к статам так, чтобы ни один не превышал +2.
 
 ## Take -1 to Spirit when:
-?
+
+* Fail with 6- any roll with Edge 
+* Ignore an appeal to your authority
+* Let a criminal you are pursuing to go unpunished 
 
 ## Ходы
 
