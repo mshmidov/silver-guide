@@ -19,15 +19,15 @@
 
 ### Ходы
 
-* The Tracker (default, xp, из плейбука)
+* The Tracker (default, xp, из плейбука) - Brains roll
 * Master Of Hounds (из плейбука)
 * Animal Reflexes (xp, из плейбука)
-* Invisible (из плейбука)
+* Invisible (из плейбука) - Edge roll
 * Always Prepared (из плейбука)
-* Master Of Traps
+* Master Of Traps - Brains roll
 * ? (tainted)
 * ? (tainted)
-* Unnatural Tracking (special, xp)
+* Unnatural Tracking (special, xp) - Edge roll
 
 
 ## The Priest
@@ -46,9 +46,18 @@
 Архетип бродячего мечника из позднего средневековья, нам не годится.
 
 ## The Veteran
-Подходит как есть. Надо добавить ход полевой медицины, как Knifes And Scalpels у The Barber. 
 
 ### Ходы
+
+* Merciless (default, из плейбука)
+* Blood Thirst (из плейбука) - Steel roll
+* Threatening (из плейбука) - Steel roll
+* Last Stand (xp, из плейбука) - Steel roll
+* Lucky in Battle (из плейбука)
+* [Field Dressing](#field-dressing) (xp) - Edge roll
+* The Toughest (xp, tainted, из плейбука)
+* ? (tainted)
+* A Long Way Home (special) - Spirit roll
 
 ## The Sorcerer
 Не подходит.
@@ -98,3 +107,12 @@ On a 10+ pick two, on a 7-9 pick one.
 On a 6- GM makes his move. 
 
 If Tainted, you are able to do the same with human trail.
+
+
+## Field Dressing
+
+You can take care of any wound, given enough time and material; spend one hold of Gear&ammo. If you’re not unstable, you can work
+on yourself.
+Roll+Edge. On a 10+ hold two. On a 7-9 hold one.
+Spend one hold to remove Unstable or heal one Health point - or HS for NPCs. At Health 0 natural recovery begins.
+On a 6- take -1 Spirit, or give -1 Health to your patient.
