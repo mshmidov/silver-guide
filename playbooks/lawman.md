@@ -83,5 +83,7 @@ For each hold spent name a terrible cost you are willing to pay for your success
 ### Special Advancement 1
 ?
 
-### Special Advancement 2
-?
+### True Grit (special, Tainted only)
+
+When you take a deadly wound and die, become a walking dead focused on vengeance and judgement. With the help from GM name one unfinished business. You will not 
+rest until it is done; do not stall, do not wait, do not focus yourself on anything else. 
